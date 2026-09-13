@@ -49,9 +49,11 @@
 
 ---
 
-## 🎬 Full 1080p Video Walkthrough (End-to-End Demo)
+## 🎬 Comprehensive Video Walkthrough (End-to-End Demo)
 
-https://github.com/user-attachments/assets/36666cab-7d1f-477b-a39e-cea7e7ac1fab
+<div align="center">
+
+https://github.com/user-attachments/assets/972d44e3-1e83-4e8e-8250-64285684857e
 
 <br/>
 
@@ -59,7 +61,9 @@ https://github.com/user-attachments/assets/36666cab-7d1f-477b-a39e-cea7e7ac1fab
 
 <br/>
 
-<sub>📁 **Direct Media File:** <a href="./docs/videos/nexpos-walkthrough.mp4"><code>docs/videos/nexpos-walkthrough.mp4</code></a> (1080p MP4 · 8.5 MB)</sub>
+<sub>📁 <b>Direct Media File:</b> <a href="./docs/videos/nexpos-walkthrough.webm"><code>docs/videos/nexpos-walkthrough.webm</code></a> (1080p WebM · 20.3 MB)</sub>
+
+</div>
 
 ---
 
