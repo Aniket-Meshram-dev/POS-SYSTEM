@@ -49,17 +49,17 @@
 
 ---
 
-## 🎬 End-to-End Walkthrough & Screen Recording
+## 🎬 Full 1080p Video Walkthrough (End-to-End Demo)
 
-<div align="center">
+https://github.com/user-attachments/assets/36666cab-7d1f-477b-a39e-cea7e7ac1fab
 
-| Walkthrough Asset | Description | Format & Location |
-|---|---|---|
-| 🎥 **NexPOS Platform Demo** | Full end-to-end user journey across Landing page, Role Authentication, POS terminal checkout, and Multi-Branch Dashboards | [WebM Video](./docs/videos/nexpos-walkthrough.webm) |
+<br/>
 
-<sub>📁 **Direct Media Asset:** <a href="./docs/videos/nexpos-walkthrough.webm"><code>docs/videos/nexpos-walkthrough.webm</code></a> (Captured via automated Playwright headless browser test suite)</sub>
+<sub>▶️ <b>Watch the comprehensive 1080p walkthrough video above</b> covering the entire platform: Marketing Landing Page full scroll, Onboarding & Login portals, Super Admin Master Console (all 8 tabs), Store Admin Command Center (all 10 tabs & 3,500 SKU catalog), Store Manager operations, Branch Admin Latur Main Branch (till settlement & staff), Branch Manager operations, and the Cashier High-Speed POS Terminal with live cart billing, item search, and tender checkout.</sub>
 
-</div>
+<br/>
+
+<sub>📁 **Direct Media File:** <a href="./docs/videos/nexpos-walkthrough.mp4"><code>docs/videos/nexpos-walkthrough.mp4</code></a> (1080p MP4 · 8.5 MB)</sub>
 
 ---
 
